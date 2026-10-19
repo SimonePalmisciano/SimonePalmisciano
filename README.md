@@ -37,7 +37,7 @@ Sono una persona curiosa, precisa e organizzata, orientata a portare a termine i
 
 ## 📚 Sto imparando
 
-- ![Python](https://shields.io)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 Attualmente sto approfondendo:
 
