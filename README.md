@@ -27,6 +27,8 @@ Sono una persona curiosa, precisa e organizzata, orientata a portare a termine i
 ### Back-end
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -35,12 +37,11 @@ Sono una persona curiosa, precisa e organizzata, orientata a portare a termine i
 
 ## 📚 Sto imparando
 
+- ![Python](https://shields.io)
+
 Attualmente sto approfondendo:
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-Il mio obiettivo è continuare a crescere come sviluppatore e rafforzare sempre di più le mie competenze **full stack**.
+Il mio obiettivo è continuare a crescere come sviluppatore e rafforzare sempre di più le mie competenze **back-end**.
 
 ---
 
